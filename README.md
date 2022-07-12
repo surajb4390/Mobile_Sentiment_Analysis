@@ -7,3 +7,7 @@
    4.  Technologies used
 # Overview:
 In this repository, we will learn step by step guide to create project on sentement analysis  using Machine Learning by using Random Forest Algorithm and deploy it on Heroku with Flask
+# Installation
+Entire code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install. To download all the packages used in the project, type the below command.
+
+pip install -r requirements.txt
