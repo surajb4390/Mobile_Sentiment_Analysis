@@ -32,3 +32,4 @@ pip install -r requirements.txt
    9.  NLTK
 # Workflow
    # Data Collection
+   Apple iPhone SE data set from Kaggle
