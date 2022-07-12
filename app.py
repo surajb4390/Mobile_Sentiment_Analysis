@@ -15,7 +15,7 @@ def Input():
 
 
 
-@app.route('/submit',methods=['POST'])
+@app.route('/submit',methods=['GET','POST'])
 def submit():
     message = request.form['message']
     input = cvt.transform([message])
