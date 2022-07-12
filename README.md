@@ -11,3 +11,13 @@ In this repository, we will learn step by step guide to create project on sentem
 Entire code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install. To download all the packages used in the project, type the below command.
 
 pip install -r requirements.txt
+# Technologies used
+   1.  Pandas
+   2.  Numpy
+   3.  Matplotlib
+   4.  Seaborn
+   5.  Sci-kit learn
+   6.  Flask
+   7.  Gunicorn
+   8.  Heroku
+   9.  NLTK
