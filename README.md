@@ -30,3 +30,5 @@ pip install -r requirements.txt
    7.  Gunicorn
    8.  Heroku
    9.  NLTK
+# Workflow
+   # Data Collection
