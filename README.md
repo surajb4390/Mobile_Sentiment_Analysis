@@ -52,4 +52,4 @@ pip install -r requirements.txt
    3.  Model performance evaluated based on accuracy, confusion matrix
    
  # Model Deployment:
-   1.  The final model is deployed on Heroku using Flask framework
+ The final model is deployed on Heroku using Flask framework
