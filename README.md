@@ -44,7 +44,7 @@ pip install -r requirements.txt
    3.  Converted all text data in lowercase
    4.  By using CountVectorizer converted data into features
    5.  Imbalanced dataset handled by SMOTE
-   6.  Selected most 5000 features for model implementation
+   6.  Selected maximum 5000 features for model implementation
  
  # Model Implementation and Evaluation:
    1.  Naïve Bayes,Random Forest algorithm tested
