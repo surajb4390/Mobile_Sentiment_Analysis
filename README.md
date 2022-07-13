@@ -32,6 +32,24 @@ pip install -r requirements.txt
    7.  Gunicorn
    8.  Heroku
    9.  NLTK
+
+
 # Workflow:
-   # Data Collection
+   # Data Collection:
    Apple iPhone SE data set from Kaggle
+ 
+ # Data Pre-processing:
+   1.  Removed all stopwords
+   2.  Removed all the numbers(0-9)
+   3.  Converted all text data in lowercase
+   4.  By using CountVectorizer converted data into features
+   5.  Imbalanced dataset handled by SMOTE
+   6.  Selected most 5000 features for model implementation
+ 
+ # Model Implementation and Evaluation:
+   1.  Naïve Bayes,Random Forest algorithm tested
+   2.  Random Forest gives better result. So here Random Forest used for training and testing
+   3.  Model performance evaluated based on accuracy, confusion matrix
+   
+ # Model Deployment:
+   1.  The final model is deployed on Heroku using Flask framework
