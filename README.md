@@ -13,6 +13,7 @@ In this repository, we will learn step by step guide to create project on sentem
 https://mobile-sentiment-analysis.herokuapp.com/
 # Installation:
 Entire code is written in Python 3.9. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install. To download all the packages used in the project, type the below command.
+pip install -r requirements.txt
 
 # Technical Aspect:
    1.  Python 3.9
@@ -21,7 +22,6 @@ Entire code is written in Python 3.9. If you don't have python installed on your
    4.  IDE: Jupyter Notebook, VS Code
    5.  Deployment: Heroku
 
-pip install -r requirements.txt
 # Technologies Used:
    1.  Pandas
    2.  Numpy
